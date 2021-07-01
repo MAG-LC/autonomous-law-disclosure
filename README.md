@@ -22,7 +22,7 @@ As such, any work product provided or created as a result of my autonomous lawye
 
 For more about autonomous lawyering, please see this [link](https://lexnode.substack.com/p/autonomous-lawyering).  
 
-I currently engage in autonomous lawyering in the following communities and have the following economic interests therein:  
+I currently engage in autonomous lawyering in the following communities and have the following economic or other interests therein:  
 
 * [LeXpunK Army](https://judge-jowday.medium.com/rise-of-lexpunk-army-5afad79966f1)
 * [LeXpunKDAO1](https://judge-jowday.medium.com/lexpunk-dao1-cryptolaw-for-degens-d1ea19352d13)
