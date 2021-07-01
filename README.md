@@ -16,7 +16,7 @@ In engaging in autonomous lawyering, I am not acting on behalf of my law firm or
 
 **USE AT YOUR OWN RISK**
 
-For the avoidance of doubt, I assume no responsibility or liability for any errors or omissions in any work product that is a result of autonomous lawyering efforts. Any views expressed, analysis or other work product provided, are “as is” for public discourse and discussion purposes only with no guarantees of completeness, accuracy, usefulness or timeliness, and without warranty of any kind, express or implied. 
+For the avoidance of doubt, I assume no responsibility or liability for any errors or omissions in any work product that is a result of autonomous lawyering efforts. Any views expressed, and/or any analysis or other work product provided, are “as is” for public discourse and discussion purposes only, with no guarantees of completeness, accuracy, usefulness or timeliness, and without warranty of any kind, express or implied. 
 
 As such, any work product provided or created as a result of my autonomous lawyering should not be used as a substitute for consultation with professional accounting, tax, legal, or other advisers.  In no event will I or my law firm, or the partners, agents, or employees thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in any autonomous lawyering work product or for any consequential, special or similar damages, even if advised of the possibility of such damages.  
 
