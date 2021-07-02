@@ -20,8 +20,6 @@ For the avoidance of doubt, I assume no responsibility or liability for any erro
 
 As such, any work product provided or created as a result of my autonomous lawyering should not be used as a substitute for consultation with professional accounting, tax, legal, or other advisers.  In no event will I or my law firm, or the partners, agents, or employees thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in any autonomous lawyering work product or for any consequential, special or similar damages, even if advised of the possibility of such damages. 
 
-For more about autonomous lawyering, please see this [link](https://lexnode.substack.com/p/autonomous-lawyering).  
-
 I currently engage in autonomous lawyering in the following communities and have the following economic or other interests therein:  
 
 * [LeXpunK Army](https://judge-jowday.medium.com/rise-of-lexpunk-army-5afad79966f1)
