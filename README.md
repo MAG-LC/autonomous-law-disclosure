@@ -1,6 +1,6 @@
 # autonomous-law-disclosure
 
-Last Updated: 8/13/21
+Last Updated: 7/16/22
 
 ***DISCLAIMERS FOLLOW: Please review and be advised of the following:*** 
 
@@ -22,10 +22,10 @@ As such, any work product provided or created as a result of my autonomous lawye
 
 I currently engage in autonomous lawyering in the following communities and have the following economic or other interests therein:  
 
-* [LeXpunK Army](https://judge-jowday.medium.com/rise-of-lexpunk-army-5afad79966f1)
+* [LeXpunK Army](https://lexpunk.army)
 * [LeXpunKDAO1](https://judge-jowday.medium.com/lexpunk-dao1-cryptolaw-for-degens-d1ea19352d13)
 * [LexDAO](https://www.lexdao.coop/)
 
-At any given time, I may also hold non-immaterial amounts (by portfolio %) of BTC, ETH, SUSHI, UNI, MATIC, AAVE, LUNA, and various stablecoins. 
+At any given time, I may also hold non-immaterial amounts (by portfolio %) of BTC, ETH, SUSHI, YFI, ENS, UNI, MATIC, SOL, LUNA, ATOM, NEAR and various stablecoins.  
 
 *I disclaim any responsibility to keep these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant voluntary disclosure.* 
